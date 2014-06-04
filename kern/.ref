@@ -1,0 +1,124 @@
+
+
+@dummy	01	<br><font size=+1><b>String quartets, Op. 18</b></font><hr noshade align=left width=500>
+
+
+
+@01-01:01-02:01-03:01-04	01-00	<not>String </not>Quartet No. 1 in F Major, Op. 18, No. 1 [1798-1800] [<a href=http://en.wikipedia.org/wiki/String_Quartet_No._1_%28Beethoven%29><small>Wikipedia</small></a>]
+quartet01-1.krn	01-01	1. <hlstart>Allegro con brio<hlend>
+quartet01-2.krn	01-02	2. <hlstart>Adagio affettuoso ed appassionato<hlend>
+quartet01-3.krn	01-03	3. <hlstart>Scherzo: Allegro molto<hlend>
+quartet01-4.krn	01-04	4. <hlstart>Allegro<hlend>
+
+@02-01:02-02:02-03:02-04	02-00	<not>String </not>Quartet No. 2 in G Major, Op. 18, No. 2 [1798-1800] [<a href=http://en.wikipedia.org/wiki/String_Quartet_No._2_%28Beethoven%29><small>Wikipedia</small></a>]
+quartet02-1.krn	02-01	1. <hlstart>Allegro<hlend>
+quartet02-2.krn	02-02	2. <hlstart>Adagio cantabile<hlend>
+quartet02-3.krn	02-03	3. <hlstart>Scherzo: Allegro<hlend>
+quartet02-4.krn	02-04	4. <hlstart>Allegro molto quasi Presto<hlend>
+
+@03-01:03-02:03-03:03-04	03-00	<not>String </not>Quartet No. 3 in D Major, Op. 18, No. 3 [1798-1800] [<a href=http://en.wikipedia.org/wiki/String_Quartet_No._3_%28Beethoven%29><small>Wikipedia</small></a>]
+quartet03-1.krn	03-01	1. <hlstart>Allegro<hlend>
+quartet03-2.krn	03-02	2. <hlstart>Andante con moto<hlend>
+quartet03-3.krn	03-03	3. <hlstart>Allegro<hlend>
+quartet03-4.krn	03-04	4. <hlstart>Presto<hlend>
+
+@04-01:04-02:04-03:04-04	04-00	<not>String </not>Quartet No. 4 in C Minor, Op. 18, No. 4 [1798-1800] [<a href=http://en.wikipedia.org/wiki/String_Quartet_No._4_%28Beethoven%29><small>Wikipedia</small></a>]
+quartet04-1.krn	04-01	1. <hlstart>Allegro ma non tanto<hlend>
+quartet04-2.krn	04-02	2. <hlstart>Andante scherzoso quasi Allegretto<hlend>
+quartet04-3.krn	04-03	3. <hlstart>Menuetto: Allegretto<hlend>
+quartet04-4.krn	04-04	4. <hlstart>Allegro<hlend>
+
+@05-01:05-02:05-03:05-04	05-00	<not>String </not>Quartet No. 5 in A Major, Op. 18, No. 5 [1798-1800] [<a href=http://en.wikipedia.org/wiki/String_Quartet_No._5_%28Beethoven%29><small>Wikipedia</small></a>]
+quartet05-1.krn	05-01	1. <hlstart>Allegro<hlend>
+quartet05-2.krn	05-02	2. <hlstart>Menuetto<hlend>
+quartet05-3.krn	05-03	3. <hlstart>Andante cantabile<hlend>
+quartet05-4.krn	05-04	4. <hlstart>Allegro<hlend>
+
+@06-01:06-02:06-03:06-04:06-05	06-00	<not>String </not>Quartet No. 6 in B-flat Major, Op. 18, No. 6 [1798-1800] [<a href=http://en.wikipedia.org/wiki/String_Quartet_No._6_%28Beethoven%29><small>Wikipedia</small></a>]
+quartet06-1.krn	06-01	1. <hlstart>Allegro con brio<hlend>
+quartet06-2.krn	06-02	2. <hlstart>Adagio ma non troppo<hlend>
+quartet06-3.krn	06-03	3. <hlstart>Scherzo: Allegro<hlend>
+quartet06-4a.krn	06-04	4a. <hlstart>La Malinconia: Adagio<hlend> 
+quartet06-4b.krn	06-05	4b. <hlstart>Allegretto quasi Allegro<hlend> 
+
+
+
+
+@dummy	07	<br><font size=+1><b>String quartets, Op. 59 ("<i>Razumovsky</i>")</b></font><hr noshade align=left width=500>
+
+
+
+
+@07-01:07-02:07-03:07-04	07-00	<not>String </not>Quartet No. 7 in F Major, Op. 59 (<i>Razumovsky</i>), No. 1 [1805-6] [<a href=http://en.wikipedia.org/wiki/String_Quartet_No._7_%28Beethoven%29><small>Wikipedia</small></a>]
+quartet07-1.krn	07-01	1. <hlstart>Allegro<hlend>
+quartet07-2.krn	07-02	2. <hlstart>Allegretto vivace e sempre scherzando<hlend>
+quartet07-3.krn	07-03	3. <hlstart>Adagio molto e mesto<hlend>
+quartet07-4.krn	07-04	4. <hlstart>Th&egrave;me russe: Allegro<hlend>
+
+@08-01:08-02:08-03:08-04	08-00	<not>String </not>Quartet No. 8 in E Minor, Op. 59 (<i>Razumovsky</i>), No. 2 [1805-6] [<a href=http://en.wikipedia.org/wiki/String_Quartet_No._8_%28Beethoven%29><small>Wikipedia</small></a>]
+quartet08-1.krn	08-01	1. <hlstart>Allegro<hlend>
+quartet08-2.krn	08-02	2. <hlstart>Molto adagio<hlend>
+quartet08-3.krn	08-03	3. <hlstart>Allegretto <hlend>
+quartet08-4.krn	08-04	4. <hlstart>Finale: Presto<hlend>
+
+@09-01:09-02:09-03:09-04	09-00	<not>String </not>Quartet No. 9 in C Major, Op. 59 (<i>Razumovsky</i>), No. 3 [1805-6] [<a href=http://en.wikipedia.org/wiki/String_Quartet_No._9_%28Beethoven%29><small>Wikipedia</small></a>]
+quartet09-1.krn	09-01	1. <hlstart>Andante con moto - Allegro vivace<hlend>
+quartet09-2.krn	09-02	2. <hlstart>Andante con moto quasi Allegretto<hlend>
+quartet09-3.krn	09-03	3. <hlstart>Menuetto: Grazioso<hlend>
+quartet09-4.krn	09-04	4. <hlstart>Allegro molto<hlend>
+
+@dummy	10	<br><font size=+1><b>Middle period quartets</b></font><hr noshade align=left width=500>
+
+@10-01:10-02:10-03:10-04	10-00	<not>String </not>Quartet No. 10 in E-flat Major, Op. 74 (<i>Harp</i>) [1809] [<a href=http://en.wikipedia.org/wiki/String_Quartet_No._10_%28Beethoven%29><small>Wikipedia</small></a>]
+quartet10-1.krn	10-01	1. <hlstart>Poco Adagio - Allegro<hlend>
+quartet10-2.krn	10-02	2. <hlstart>Adagio ma non troppo<hlend>
+quartet10-3.krn	10-03	3. <hlstart>Presto<hlend>
+quartet10-4.krn	10-04	4. <hlstart>Allegretto con Variazioni<hlend>
+
+@11-01:11-02:11-03:11-04	11-00	<not>String </not>Quartet No. 11 in F Minor, Op. 95 (<i>Serioso</i>) [1810] [<a href=http://en.wikipedia.org/wiki/String_Quartet_No._11_%28Beethoven%29><small>Wikipedia</small></a>]
+quartet11-1.krn	11-01	1. <hlstart>Allegro con brio<hlend>
+quartet11-2.krn	11-02	2. <hlstart>Allegretto ma non troppo<hlend>
+quartet11-3.krn	11-03	3. <hlstart>Allegro assai vivace ma serioso<hlend>
+quartet11-4.krn	11-04	4. <hlstart>Larghetto espessivo - Allegretto agitato<hlend>
+
+@dummy	12	<br><font size=+1><b>Late quartets</b></font><hr noshade align=left width=500>
+
+@12-01:12-02:12-03:12-04	12-00	<not>String </not>Quartet No. 12 in E-flat Major, Op. 127 [1825] [<a href=http://en.wikipedia.org/wiki/String_Quartet_No._12_(Beethoven)><small>Wikipedia</small></a>]
+quartet12-1.krn	12-01	1. <hlstart>Maestoso - Allegro<hlend>
+quartet12-2.krn	12-02	2. <hlstart>Adagio, ma non troppo e molto cantabile<hlend>
+quartet12-3.krn	12-03	3. <hlstart>Scherzando vivace - Presto<hlend>
+quartet12-4.krn	12-04	4. <hlstart>Finale - Allegro con moto<hlend>
+
+@13-01:13-02:13-03:13-04:13-05:13-06	13-00	<not>String </not>Quartet No. 13 in B-flat Major, Op. 130 [1825] [<a href=http://en.wikipedia.org/wiki/String_Quartet_No._13_%28Beethoven%29><small>Wikipedia</small></a>]
+quartet13-1.krn	13-01	1. <hlstart>Adagio ma non troppo - Allegro<hlend>
+quartet13-2.krn	13-02	2. <hlstart>Presto<hlend>
+quartet13-3.krn	13-03	3. <hlstart>Andante con moto, ma non troppo<hlend>
+quartet13-4.krn	13-04	4. <hlstart>Alla danza tedesca: Allegro assai<hlend>
+quartet13-5.krn	13-05	5. <hlstart>Cavatina: Adagio molto espressivo<hlend>
+quartet13-6.krn	13-06	6. <hlstart>Finale: Allegro<hlend>
+
+@14-01:14-02:14-03:14-04:14-05:14-06:14-07	14-00	<not>String </not>Quartet No. 14 in C-sharp Minor, Op. 131 [1826] [<a href=http://en.wikipedia.org/wiki/String_Quartet_No._14_%28Beethoven%29><small>Wikipedia</small></a>]
+quartet14-1.krn	14-01	1. <hlstart>Adagio ma non troppo e molto espressivo<hlend>
+quartet14-2.krn	14-02	2. <hlstart>Allegro molto vivace<hlend>
+quartet14-3.krn	14-03	3. <hlstart>Allegro moderato - Adagio<hlend>
+quartet14-4.krn	14-04	4. <hlstart>Andante, ma non troppo e molto cantabile<hlend>
+quartet14-5.krn	14-05	5. <hlstart>Presto<hlend>
+quartet14-6.krn	14-06	6. <hlstart>Adagio, quasi un poco andante<hlend>
+quartet14-7.krn	14-07	7. <hlstart>Allegro<hlend>
+
+@15-01:15-02:15-03:15-04:15-05	15-00	<not>String </not>Quartet No. 15 in A Minor, Op. 132 [1825] [<a href=http://en.wikipedia.org/wiki/String_Quartet_No._15_%28Beethoven%29><small>Wikipedia</small></a>]
+quartet15-1.krn	15-01	1. <hlstart>Assai sostenuto - Allegro<hlend>
+quartet15-2.krn	15-02	2. <hlstart>Allegro ma non tanto<hlend>
+quartet15-3.krn	15-03	3. <hlstart>Heiliger Dankgesang eines Genesenden an die Gottheit, in der lydischen Tonart: Molto adagio<hlend>
+quartet15-4.krn	15-04	4. <hlstart>Alla marcia: Assai vivace - Pi&ugrave; allegro<hlend>
+quartet15-5.krn	15-05	5. <hlstart>Allegro appasionato - Presto<hlend>
+
+@16-01:16-02:16-03:16-04	16-00	<not>String </not>Quartet No. 16 in F Major, Op. 135 [1826] [<a href=http://en.wikipedia.org/wiki/String_Quartet_No._16_%28Beethoven%29><small>Wikipedia</small></a>]
+quartet16-1.krn	16-01	1. <hlstart>Allegretto<hlend>
+quartet16-2.krn	16-02	2. <hlstart>Vivace<hlend>
+quartet16-3.krn	16-03	3. <hlstart>Lento assai e cantante tranquillo<hlend>
+quartet16-4.krn	16-04	4. <hlstart>Der schwer gefa&szlig;te Entschlu&szlig;: Grave ma non troppo tratto - Allegro<hlend>
+
+# Good lists of movement names:
+# http://w3.rz-berlin.mpg.de/cmp/beethoven_string_quartet04.html
+# Durations: http://www.hyperion-records.co.uk/details/55021.asp
